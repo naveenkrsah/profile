@@ -22,7 +22,7 @@ export const Bio = {
   // github: "https://github.com/rishavchanda",
   github: "https://github.com/naveenkrsah",
   resume:
-    "https://drive.google.com/file/d/1MXyAzioeKY23kzdzzJZu2qDMBjCs_5x6/view",
+    "https://drive.google.com/file/d/192FHr7O1uJGYGjzpUAccMtEPAlC6wWmT/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/naveen-kumar-sah-9b7b491b2/",
   // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   // twitter: "https://twitter.com/RishavChanda",
