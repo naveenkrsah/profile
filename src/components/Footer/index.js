@@ -70,6 +70,7 @@ const SocialMediaIcon = styled.a`
   display: inline-block;
   margin: 0 1rem;
   font-size: 1.5rem;
+  cursor:pointer;
   color: ${({ theme }) => theme.text_primary};
   transition: color 0.2s ease-in-out;
   &:hover {
@@ -103,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Naveen Kumar Sah. All rights reserved.
+          &copy; {new Date().getFullYear()} Naveen Kumar Sah. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
